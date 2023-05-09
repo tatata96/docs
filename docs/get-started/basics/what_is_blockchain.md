@@ -1,4 +1,4 @@
-title: What is a blockchain? 
+title: What is a blockchain TEST? 
 
 <center>
 ![Blockchain versus traditional database](../../imgs/basics-blockchain-vs-traditional.png){: style="width:500px" align=center }

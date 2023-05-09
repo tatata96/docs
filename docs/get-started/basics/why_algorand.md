@@ -1,4 +1,4 @@
-title: Why Algorand?
+title: Why Algorand TEST?
 
 So far, we’ve discussed blockchain technology and the benefits it brings to applications that transfer value. But we made some assumptions about the type of blockchain we’re dealing with when we formed these definitions. In reality, not all blockchains are created equal, and not all of them can provide the same degree of benefit.  
 
